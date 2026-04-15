@@ -1,21 +1,33 @@
 
-# Curso de JavaScript 2022
-## Clase 15 - API y Fetch
+# Fetch
 
-### [Ver video de esta clase](https://youtu.be/95BFumHfwAA)
+## VS Code
+```
+Install SSH Remote Plug-in (Microsoft)
+```
+```
+Remote-SSH:Open Configuration File...
+/users/santos/.ssh/config
+```
 
-### Autor
-- Carpi Coder
 
-### Contacto
-- [www.carpicoder.com](https://carpicoder.com)
-- [hola@carpicoder.com](mailto:hola@carpicoder.com)
+```
+Host aws-ec2
+    HostName ec2-44-229-243-8.us-west-2.compute.amazonaws.com
+    User ec2-user
+    IdentityFile c:\Temp\labsuser.pem
+```
 
-### Redes sociales
-- [YouTube](https://youtube.com/carpicoder)
-- [Instagram](https://instagram.com/carpicoder)
-- [Twitter](https://twitter.com/carpicoder)
-
-### Para apoyar mi contenido, podés
-
-- [Invitarme un Cafecito](https://cafecito.app/carpicoder)
+```
+Change permissions in the Labuser.pem and config files
+(Linux chmod 400. Windows (remove all users, add the windows user)
+```
+## Apache
+```
+yum install httpd -y
+systemctl start httpd
+systemctl enable httpd
+```
+```
+ /var/www/html
+```
