@@ -1,6 +1,13 @@
 
 # Fetch
 
+## Links
+```
+https://rapidapi.com/hub
+```
+```
+https://jsonplaceholder.typicode.com/
+```
 ## VS Code
 ```
 Install SSH Remote Plug-in (Microsoft)
