@@ -11,6 +11,12 @@ fetch("https://jsonplaceholder.typicode.com/todos")
     .then(json => console.log(json))
 
 ```
+```
+const urlUsuarios = "https://jsonplaceholder.typicode.com/users";
+
+console.log(fetch(urlUsuarios));
+
+```
 
 ```
 const urlUsuarios = "https://jsonplaceholder.typicode.com/users";
