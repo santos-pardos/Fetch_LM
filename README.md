@@ -7,6 +7,7 @@ https://pokeapi.co/
 ```
 ```
 https://rapidapi.com/hub
+https://rapidapi.com/weatherapi/api/weatherapi-com
 ```
 ```
 https://jsonplaceholder.typicode.com/
