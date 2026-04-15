@@ -28,6 +28,9 @@ yum install httpd -y
 systemctl start httpd
 systemctl enable httpd
 ```
+
+## Permisos 
 ```
- /var/www/html
+sudo chown -R $USER:$USER /var/www/html
+sudo chmod -R 755 /var/www/html
 ```
