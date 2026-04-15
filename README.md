@@ -12,6 +12,7 @@ https://rapidapi.com/weatherapi/api/weatherapi-com
 ```
 https://jsonplaceholder.typicode.com/
 https://jsonplaceholder.typicode.com/users
+https://jsonplaceholder.typicode.com/todos/
 ```
 ## VS Code
 ```
