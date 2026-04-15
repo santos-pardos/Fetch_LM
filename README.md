@@ -31,7 +31,7 @@ Host Linux-AWS
 ```
 
 ```
-Change permissions in the Labuser.pem and config files
+Change permissions in the Labuser.pem (R) and config (WRX) files. 
 (Linux chmod 400. Windows (remove all users, add the windows user)
 ```
 ## Apache
