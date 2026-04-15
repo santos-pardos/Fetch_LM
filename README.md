@@ -24,8 +24,8 @@ Remote-SSH:Open Configuration File...
 
 
 ```
-Host aws-ec2
-    HostName ec2-44-229-243-8.us-west-2.compute.amazonaws.com
+Host Linux-AWS
+    HostName 44.229.243.8
     User ec2-user
     IdentityFile c:\Temp\labsuser.pem
 ```
