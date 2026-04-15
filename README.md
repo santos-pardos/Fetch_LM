@@ -47,3 +47,8 @@ systemctl enable httpd
 sudo chown -R $USER:$USER /var/www/html
 sudo chmod -R 755 /var/www/html
 ```
+
+## Video
+```
+https://www.youtube.com/watch?v=95BFumHfwAA&list=PL8VCLfCNXjSboktEnd6CHCtxZHTwiQZQH&index=19
+```
