@@ -3,6 +3,9 @@
 
 ## Links
 ```
+https://pokeapi.co/
+```
+```
 https://rapidapi.com/hub
 ```
 ```
